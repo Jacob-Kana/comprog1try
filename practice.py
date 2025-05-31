@@ -1,0 +1,1 @@
+print("Practice file created after cloning.")
